@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jhonneyp&label=Profile%20views&color=0e75b6&style=flat" alt="jhonneyp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jhonneycpe" target="blank"><img src="https://img.shields.io/twitter/follow/jhonneycpe?logo=twitter&style=for-the-badge" alt="jhonneycpe" /></a> </p>
-
 - 🌱 I'm always learning and currently curious about **JS, Puthon and Rust**
 
 - 📫 How to reach me **https://twitter.com/jhonneycpe**
